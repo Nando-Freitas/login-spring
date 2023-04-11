@@ -1,2 +1,3 @@
-# login-spring
-Authentication with Spring
+# Spring Authentication
+
+Here we have an MVC Spring Application with authentication:
